@@ -1,9 +1,8 @@
 
 * [概览](/undt/README.md)
 * 动态与公告
-
   * [新功能发布记录](/undt/releasenotes/newfunctions.md)
-* [公告：网络拨测告警通知升级与商业化通知](/undt/releasenotes/updates202406.md)
+  * [公告：告警通知升级与商业化通知](/undt/releasenotes/updates202406.md)
 * 产品简介
   * [产品概述](/undt/introduction/description.md)
   * [产品功能](/undt/introduction/function.md)
