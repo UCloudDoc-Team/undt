@@ -10,10 +10,12 @@
 * 操作指南
 
   * [开通网络拨测](/undt/guide/openservice.md)
-  * [新建定时拨测任务](/undt/guide/createtask.md)
+  * [新建Ping定时拨测任务](/undt/guide/createpingtask.md)
+  * [新建HTTP/HTTPS定时拨测任务](/undt/guide/createhttptask.md)
   * [查看定时拨测任务](/undt/guide/viewtask.md)
   * [即时拨测](/undt/guide/onetimedial.md)
   * [回调告警内容说明](/undt/guide/webhook.md)
+  * [状态码和错误码说明](/undt/guide/statuscodes.md)
 * 购买指南
 
   * [计费规则](/undt/buy/charge.md)
