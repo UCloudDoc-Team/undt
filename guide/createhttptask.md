@@ -29,7 +29,7 @@
 
    - 可用条件
 
-     ![创建任务http-可用条件](D:\Documents\Github\undt\images\创建任务http-可用条件.png)
+     ![创建任务-可用条件](D:\Documents\Github\undt\images\创建任务http-可用条件.png)
 
      ① 设置探测点上拨测响应结果是否异常的判断条件，满足所有条件的探测点为可用探测点。条件类型包括：
 
@@ -49,7 +49,7 @@
    
    - 高级参数
    
-     ![http高级参数](D:\Documents\Github\undt\images\http高级参数.png)
+     ![高级参数](D:\Documents\Github\undt\images\http高级参数.png)
    
      ① 请求参数配置：
    
@@ -91,4 +91,4 @@
 
    - 管理设置：设置任务名称。
    
-     ![创建任务-管理配置](D:\Documents\Github\images\创建任务-管理配置.png)
+     ![创建任务-管理配置](D:\Documents\Github\images\创建任务http-管理配置.png)
