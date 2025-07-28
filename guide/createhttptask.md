@@ -15,7 +15,7 @@
 
    - 基本信息
 
-     ![创建任务-基本信息](../images/创建任务http-基本信息.png)
+     ![创建任务-基本信息](D:\Documents\GitHub\undt\images\创建任务http-基本信息.png)
 
      ① 选择请求方法（GET/POST）
 
@@ -29,7 +29,7 @@
 
    - 可用条件
 
-     ![创建任务-可用条件](../images/创建任务http-可用条件.png)
+     ![创建任务-可用条件](D:\Documents\Github\undt\images\创建任务http-可用条件.png)
 
      ① 设置探测点上拨测响应结果是否异常的判断条件，满足所有条件的探测点为可用探测点。条件类型包括：
 
@@ -43,13 +43,13 @@
    
    - 拨测配置
 
-     ![选择探测源](../images/创建任务-选择探测源.png)
+     ![选择探测源](D:\Documents\GitHub\undt\images\创建任务-选择探测源.png)
    
      ① 选择探测源：按照需要选择不同地域或不同运营商的探测源，也可将当前选择的探测点保存为探测源组，后续创建任务可直接选用。
    
    - 高级参数
    
-     ![高级参数](../images/创建任务http-高级参数.png)
+     ![高级参数](D:\Documents\Github\undt\images\http高级参数.png)
    
      ① 请求参数配置：
    
@@ -71,7 +71,7 @@
    
    - 告警配置
    
-     ![告警配置](../images/创建任务http-告警配置.png)
+     ![告警配置](D:\Documents\GitHub\undt\images\创建任务http-告警配置.png)
    
      ① 告警规则：
    
@@ -91,4 +91,4 @@
 
    - 管理设置：设置任务名称。
    
-     ![管理配置](../images/创建任务http-管理配置.png)
+     ![创建任务-管理配置](D:\Documents\Github\images\创建任务http-管理配置.png)
