@@ -97,6 +97,6 @@
 
    - 管理设置：设置任务名称。
 
-     ![mtr配置&任务名称](D:\Documents\Github\images\创建任务-mtr配置&任务名称.png)
+     ![创建任务-mtr配置&任务名称](D:\Documents\Github\images\创建任务-mtr配置&任务名称.png)
 
    
