@@ -38,7 +38,7 @@
 
 #### 概览
 
-![结果页概览](D:\Documents\Github\undt\images\http结果页概览.png)
+![结果页概览](../images/http结果页概览.png)
 
 您可在概览界面查看任务基本信息，通过时延地图、探测可用率图、响应时间图、错误次数统计图等多维度展示当前网络探测任务的执行状态与目标地址的访问健康情况，以及任务运行中的告警记录。
 
@@ -46,7 +46,7 @@
 
 您可在此页面查看30天内的拨测记录。点击详情，查看单次拨测详情，包括探测信息、网络诊断信息、原始日志信息等。
 
-![拨测记录列表](D:\Documents\GitHub\undt\images\http拨测记录列表.png)
+![拨测记录列表](../images/http拨测记录列表.png)
 
-![单次拨测详情](D:\Documents\Github\undt\images\http单次拨测详情.png)
+![单次拨测详情](../images/http单次拨测详情.png)
 
