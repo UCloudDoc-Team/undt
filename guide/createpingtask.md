@@ -7,7 +7,7 @@
 1. 登录[UCloud控制台](https://passport.ucloud.cn/#login)；
 
 2. 进入全部产品->监控与运维->网络拨测->定时拨测页面，点击[创建拨测任务](https://console.ucloud.cn/undt/)；
-   ![创建定时拨测任务](D:\Documents\GitHub\undt\images\创建任务入口.png)
+   ![创建定时拨测任务](D:/Documents/GitHub/undt/images/创建任务入口.png)
 
 3. 在创建任务界面，选择ICMP/TCP标签页，填写定时拨测任务的相关信息；
 
@@ -15,7 +15,7 @@
 
    - 基本信息
 
-     ![创建任务-基本信息](D:\Documents\GitHub\undt\images\创建任务-基本信息.png)
+     ![创建任务-基本信息](D:/Documents/GitHub/undt/images/创建任务-基本信息.png)
 
      ① 探测模式
 
@@ -35,11 +35,11 @@
 
    - 拨测配置
 
-     ![选择探测源](D:\Documents\GitHub\undt\images\创建任务-选择探测源.png)
+     ![选择探测源](D:/Documents/GitHub/undt/images/创建任务-选择探测源.png)
 
      ① 选择探测源：需要选择不同地域或不同运营商的探测源，也可将当前选择的探测点保存为探测源组，后续创建任务可直接选用。
 
-     ![配置拨测参数](D:\Documents\GitHub\undt\images\创建任务-拨测参数.png)
+     ![配置拨测参数](D:/Documents/GitHub/undt/images/创建任务-拨测参数.png)
 
      ② 拨测参数配置
 
@@ -57,7 +57,7 @@
 
    - 告警配置
 
-     ![告警配置](D:\Documents\GitHub\undt\images\创建任务-告警配置202406.png)
+     ![告警配置](D:/Documents/GitHub/undt/images/创建任务-告警配置202406.png)
 
      ① 告警规则：可以为不同维度的监控指标配置告警规则。
 

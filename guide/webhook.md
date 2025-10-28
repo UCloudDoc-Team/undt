@@ -6,7 +6,7 @@
 
 在[资源监控-通知人管理](https://console.ucloud.cn/umon/contact)，创建新的通知组或编辑已有的通知组，通知方式勾选“回调接口”，填写需要推送告警信息的回调地址（公网可访问到的URL）。
 
-![配置回调地址](D:\Documents\GitHub\undt\images\配置回调地址.PNG)
+![配置回调地址](D:/Documents/GitHub/undt/images/配置回调地址.PNG)
 
 ## 请求参数说明
 
