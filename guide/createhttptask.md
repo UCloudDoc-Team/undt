@@ -7,7 +7,7 @@
 1. 登录[UCloud控制台](https://passport.ucloud.cn/#login)；
 
 2. 进入全部产品->监控与运维->网络拨测->定时拨测页面，点击[创建拨测任务](https://console.ucloud.cn/undt/)；
-   ![创建定时拨测任务](../images/创建任务入口.png)
+   ![创建定时拨测任务](images/创建任务入口.png)
 
 3. 在创建任务界面，选择HTTP/HTTPS标签页，填写定时拨测任务的相关信息。
 
